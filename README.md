@@ -1,6 +1,6 @@
-Next.js Performance & Speed Optimization | Episode #1 | Why use Image & Script Components?
+Next.js Performance & Speed Optimization | Episode #2 | Bundle Analyzer & Dynamic Imports
 
 Summary:
-- How to use the Next Image component & why
-- How using another image compressor like TinyPNG may or may not be useful for you
-- How to use the Next Script component & why
+- How & why you should use the @next/bundle-analyzer 
+- How to dynamically import libraries/packages
+- How to dynamically import components with next/dynamic
