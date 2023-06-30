@@ -17,8 +17,6 @@ const Page = () => {
         setIsModalOpen(false);
     };
 
-
-
     const submission = async (event: FormEvent) => {
         event.preventDefault()
         const PocketBase = (await (import('pocketbase'))).default;

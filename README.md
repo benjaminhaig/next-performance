@@ -1,6 +1,6 @@
-Next.js Performance & Speed Optimization | Episode #2 | Bundle Analyzer & Dynamic Imports
+Next.js Performance & Speed Optimization | Episode #3 | Bundle Size & Budget
 
 Summary:
-- How & why you should use the @next/bundle-analyzer 
-- How to dynamically import libraries/packages
-- How to dynamically import components with next/dynamic
+- How to use the bundlesize library and set bundle budgets 
+- How next/font works
+- Conclusion to series
